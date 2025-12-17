@@ -2,7 +2,7 @@
 > A smart, glowing AI chatbot that *thinks deep so you don’t have to.*  
 
 ![DeepThink Logo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRhOXoxcWY2dHhlMGh5aWIxYWk5NnN3bnR1NWtxeXBmYjMxaXNzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)  
-🔗 [Live Demo](https://deepthinkio.netlify.app)
+
 
 ---
 
@@ -35,17 +35,3 @@ It is designed for minimal distraction, smooth animations, and intuitive interac
 
 ---
 
-## 🧑‍💻 Getting Started
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/sarthak576/DeepThink.git
-
-# 2. Navigate into the folder
-cd Deepthink
-
-# 3. Install dependencies
-npm install
-
-# 4. Start the development server
-npm run dev
